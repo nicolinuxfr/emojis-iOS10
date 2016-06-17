@@ -24,10 +24,19 @@
 ### 👌 
 - OK
 - OKAY 
+- Nickel 
 
 ### 🙏 
 - Merci
+- Prière 
 - Thanks 
+
+### 👊 
+- Poing
+
+### 👋 
+- Hi
+
 
 ***
 
@@ -35,6 +44,8 @@
 
 ### 😉
 - Wink
+
+Prix
 
 
 ### 😀 / 😃
@@ -48,6 +59,20 @@
 
 ### 😯
 - Surpris
+
+### 😟 
+- Inquiet
+- Apeuré 
+
+### 😕 
+- Confus
+
+### 😢 
+- Larme
+- Pleurer
+
+### 😳 
+- Embarrassé
 
 ### 😆
 - LOL
@@ -107,6 +132,18 @@
 ### 😷
 - Masque
 
+### 😖 / 😠
+- Angry
+
+### 😇 
+- Ange
+
+### 😊 
+- Blushing
+
+### 😵 
+- Dizzy
+
 
 ***
 
@@ -139,6 +176,7 @@
 ### 💥
 - Explosion
 - Boom
+- Bang
 
 ### 🎈
 - Ballon
@@ -157,3 +195,6 @@
 
 ### 💡 
 - Idée 
+
+### 💴 
+- Billet
