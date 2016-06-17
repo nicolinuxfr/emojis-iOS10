@@ -6,6 +6,7 @@
 - Oui
 - Bravo
 - Yep
+- Super 
 
 ### 👎 
 - Non
