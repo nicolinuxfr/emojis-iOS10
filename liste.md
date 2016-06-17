@@ -104,6 +104,11 @@
 
 ## Autres
 
+### 💤 / 😴 
+- Zzz
+- Dormir
+- Sleep
+
 ### 👻 
 - Bouh
 - Boo
