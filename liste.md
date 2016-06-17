@@ -7,6 +7,8 @@
 - Bravo
 - Yep
 - Super 
+- Nice
+- Great 
 
 ### 👎 
 - Non
@@ -38,6 +40,7 @@
 ### 😀 / 😃
 - Heureux
 - Joyeux
+- Happy
 
 ### ☹️
 - Triste
@@ -104,6 +107,7 @@
 ### 😷
 - Masque
 
+
 ***
 
 ## Autres
@@ -123,6 +127,11 @@
 
 ### 💀
 - Mort
+- Crâne 
+
+### 👀 
+- Yeux
+- Look
 
 ### 🍖
 - Os
@@ -134,6 +143,17 @@
 ### 🎈
 - Ballon
 - Fête
+- Party
+
+### 🎉
+- Party
 
 ### ✅
 - Fait
+
+### 🎁 
+- Anniversaire 
+- Birthday
+
+### 💡 
+- Idée 
