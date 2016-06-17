@@ -113,6 +113,7 @@ Prix
 ### 😙 / 😚 / 😘
 - Baiser
 - Bisous
+- Embrasser
 
 ### 💕 / ❤️ / 💝  / 😘 
 - Je t'aime 
@@ -145,6 +146,9 @@ Prix
 ### 😵 
 - Dizzy
 
+### 🤓 
+- Nerd
+- Geek
 
 ***
 
