@@ -45,9 +45,6 @@
 ### 😉
 - Wink
 
-Prix
-
-
 ### 😀 / 😃
 - Heureux
 - Joyeux
