@@ -22,6 +22,10 @@
 - OK
 - OKAY 
 
+### 🙏 
+- Merci
+- Thanks 
+
 ***
 
 ## Têtes
