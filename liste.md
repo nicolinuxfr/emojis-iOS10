@@ -147,6 +147,10 @@
 - Nerd
 - Geek
 
+## 😅 
+- Ouf
+- Soulagé
+
 ***
 
 ## Autres
