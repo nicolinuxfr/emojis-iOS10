@@ -43,6 +43,9 @@
 ### 🙌
 - Youhou
 
+### 💪 
+- Fort
+
 
 ***
 
@@ -55,6 +58,9 @@
 - Heureux
 - Joyeux
 - Happy
+
+### 😜 
+- Héhé
 
 ### ☹️
 - Triste
@@ -210,3 +216,32 @@
 
 ### 💴 
 - Billet
+- Dollar
+
+### 💨 
+- Vent
+
+### 🚿 
+- Douche
+
+### 🛀 
+- Bain
+
+### 👕 
+- Haut
+
+### 🍏 🍎 
+- Apple
+- Pomme (🍎)
+
+### 🎁 
+- Cadeau
+- Present 
+
+### ☎️ 📞 
+- Phone
+- Téléphone
+
+### 🐛 
+- Ver
+- Bug
