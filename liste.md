@@ -215,7 +215,8 @@
 - Birthday
 
 ### 💡 
-- Idée 
+- Idée
+- Ampoule
 
 ### 💴 
 - Billet
@@ -235,7 +236,7 @@
 
 ### 🍏 🍎 
 - Apple
-- Pomme (🍎)
+- Pomme
 
 ### 🎁 
 - Cadeau
