@@ -258,3 +258,21 @@
 
 ### 🏍
 - Moto
+
+### 📺 
+- Écran 
+- TV
+- Télévision
+- Screen
+
+### 📱 
+- iPhone 
+
+### ⌚️ 
+- Montre
+- Watch
+
+### 💻
+- Ordinateur
+- Computer
+- Laptop
