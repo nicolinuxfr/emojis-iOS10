@@ -111,8 +111,12 @@
 ### 🤒 / 🤕
 - Malade
 - Sick
+
+### 🤒
 - Grippe
 - Fièvre
+- Thermomètre
+- Température 
 
 ### 🤑 
 - Argent
