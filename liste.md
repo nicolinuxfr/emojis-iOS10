@@ -280,3 +280,29 @@
 - Ordinateur
 - Computer
 - Laptop
+
+### 🌞
+- Soleil
+- Ensoleillé
+
+### ⛅️ 
+- Nuage
+- Nuageux 
+
+### ☔️ 
+- Pluie
+- Parapluie 
+
+### 💨 
+- Vent
+
+### ⛄️ 
+- Neige
+- Snow
+
+### 🌌 
+- Ciel
+- Sky
+
+### ⭐️ 
+- Étoile 
