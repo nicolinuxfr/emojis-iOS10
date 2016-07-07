@@ -98,12 +98,9 @@
 ### 🙄
 - Pff
 
-### 😐
+### 😐 / 🤔 
 - Hum
 - Hmm
-
-### 🤔
-- hmm
 
 ### 🙃
 - Grimace
@@ -130,13 +127,18 @@
 - Baiser
 - Bisous
 - Embrasser
+- Kiss
 
 ### 💕 / ❤️ / 💝  / 😘 
 - Je t'aime 
 - Love 
+- Amour
 
-### ♥️ 
-- Cœur 
+###❣️ 
+- Cœur
+
+### 💕 / 💗 
+- Cœurs
 
 ### 😘 
 - Amour
@@ -147,11 +149,14 @@
 ### 😜
 - Fou
 
+
 ### 😷
 - Masque
 
 ### 😖 / 😠
 - Angry
+- Énervé
+- Mad
 
 ### 😇 
 - Ange
@@ -166,9 +171,9 @@
 - Nerd
 - Geek
 
-## 😅 
+### 😅 
 - Ouf
-- Soulagé
+- Soulagé 
 
 ***
 
@@ -178,6 +183,7 @@
 - Zzz
 - Dormir
 - Sleep
+- Fatigué
 
 ### 👻 
 - Bouh
@@ -264,32 +270,32 @@
 - Moto
 
 ### 📺 
-- Écran 
+- Écran
 - TV
 - Télévision
 - Screen
 
-### 📱 
-- iPhone 
+### 📱 / 📲 
+- iPhone
 
 ### ⌚️ 
 - Montre
 - Watch
 
-### 💻
+### 💻 / 🖥 
 - Ordinateur
 - Computer
 - Laptop
 
-### 🌞
+### 🌞 / ☀️ 
 - Soleil
 - Ensoleillé
 
-### ⛅️ 
+### ⛅️ / ☁️ 
 - Nuage
 - Nuageux 
 
-### ☔️ 
+### ☔️
 - Pluie
 - Parapluie 
 
@@ -300,9 +306,15 @@
 - Neige
 - Snow
 
+### ❄️ 
+- Flocon 
+
 ### 🌌 
 - Ciel
 - Sky
+
+### 🌈 
+- Rainbow
 
 ### ⭐️ 
 - Étoile 
